@@ -1,0 +1,23 @@
+.wrapper {
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.counterContainer {
+    width: 500px;
+    height: 300px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: column;
+    border-radius: 5px;
+}
+
+.increaseDecrease {
+    display: flex;
+    gap: 40px;
+    justify-content: space-around;
+}
